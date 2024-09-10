@@ -1,0 +1,6 @@
+config BR2_PACKAGE_LIBCGIF
+	bool "libcgif"
+	help
+	  CGIF is a GIF encoder written in C.
+
+	  https://github.com/dloebl/cgif
